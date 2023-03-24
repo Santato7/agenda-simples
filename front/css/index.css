@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  place-content: center;
+}
+
+#listaCompromissos {
+  display: flex;
+  place-content: center;
+  gap: 50px;
+}
